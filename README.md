@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Fatimah Abdullah Mustapha
+# Hi there 👋 I'm Fatimah Mustapha
 
 ## 🎓 About Me
 I'm a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, and developing real-world applications.  
