@@ -74,7 +74,6 @@ I specialize in building intelligent, user-focused systems that combine:
 
 ![Fatimah's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimah&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fatimah-mustapha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 ---
 
 ✨ Always excited to leverage AI and software development to create meaningful impact and innovate solutions that matter!
